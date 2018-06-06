@@ -1,0 +1,25 @@
+using UnityEngine;
+using System.Collection;
+using System.Next;
+using System.Next.Sockets;
+
+public class Client : MonoBehavior{
+	
+	Socket clientSocket;
+	cont string _ip = "";
+	const int _port = 8877;
+	
+	void Start(){
+	// new Socket
+	clinetSocket = new Socket(AddressFamily.InterNetwork,SocketType.Stream,ProtocolType.Tcp);
+	// ip change Endip
+	IPAddress ipAddress = IPAddress.Parse(_ip);	
+	IPEndPoint ipPoint = new IPEndPoint(ipAddress,_port);
+
+
+	clientSocket.Connect();
+	Debug.log("Connect success!_(:§Ù©f¡Ï)_")
+
+	}
+
+}

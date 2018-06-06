@@ -1,0 +1,31 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\monster\_script\monsterbehavior.cs">
+    <Files>
+      <File FileName="Assets\character\_script\ChangeWeapon.cs" Line="1" Column="1" />
+      <File FileName="Assets\UI\_scripts\register.cs" Line="1" Column="1" />
+      <File FileName="Assets\UI\_scripts\userlog.cs" Line="1" Column="1" />
+      <File FileName="Assets\UI\_scripts\createPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\character\_script\create_changeThing.cs" Line="1" Column="1" />
+      <File FileName="Assets\UI\_scripts\playerHead.cs" Line="1" Column="1" />
+      <File FileName="Assets\UI\_scripts\playerInfo.cs" Line="1" Column="1" />
+      <File FileName="Assets\UI\_scripts\logOut_cancel.cs" Line="1" Column="1" />
+      <File FileName="Assets\character\_script\weaponattack.cs" Line="1" Column="1" />
+      <File FileName="Assets\character\_script\Behavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\UI\_scripts\logOut.cs" Line="1" Column="1" />
+      <File FileName="Assets\UI\_scripts\logOut_control.cs" Line="1" Column="1" />
+      <File FileName="Assets\UI\_scripts\keyboard.cs" Line="1" Column="1" />
+      <File FileName="Assets\character\_script\PlayerAccount.cs" Line="1" Column="1" />
+      <File FileName="Assets\character\_script\NewPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\character\_script\playerbehave.cs" Line="1" Column="1" />
+      <File FileName="Assets\monster\_script\GenerateMonster.cs" Line="1" Column="1" />
+      <File FileName="Assets\UI\_scripts\ChangeScene.cs" Line="1" Column="1" />
+      <File FileName="Assets\UI\_scripts\relife.cs" Line="1" Column="1" />
+      <File FileName="Assets\monster\_script\monsterbehavior.cs" Line="133" Column="58" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

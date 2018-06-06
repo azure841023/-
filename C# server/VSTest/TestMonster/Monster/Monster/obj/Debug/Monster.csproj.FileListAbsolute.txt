@@ -1,0 +1,6 @@
+C:\Users\Joe\Desktop\VSTest\TestMonster\Monster\Monster\bin\Debug\Monster.exe.config
+C:\Users\Joe\Desktop\VSTest\TestMonster\Monster\Monster\bin\Debug\Monster.exe
+C:\Users\Joe\Desktop\VSTest\TestMonster\Monster\Monster\bin\Debug\Monster.pdb
+C:\Users\Joe\Desktop\VSTest\TestMonster\Monster\Monster\obj\Debug\Monster.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\VSTest\TestMonster\Monster\Monster\obj\Debug\Monster.exe
+C:\Users\Joe\Desktop\VSTest\TestMonster\Monster\Monster\obj\Debug\Monster.pdb

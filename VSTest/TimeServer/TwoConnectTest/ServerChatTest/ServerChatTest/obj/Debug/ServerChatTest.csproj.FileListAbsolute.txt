@@ -1,0 +1,6 @@
+C:\Users\Joe\Desktop\VSTest\TimeServer\TwoConnectTest\ServerChatTest\ServerChatTest\bin\Debug\ServerChatTest.exe.config
+C:\Users\Joe\Desktop\VSTest\TimeServer\TwoConnectTest\ServerChatTest\ServerChatTest\bin\Debug\ServerChatTest.exe
+C:\Users\Joe\Desktop\VSTest\TimeServer\TwoConnectTest\ServerChatTest\ServerChatTest\bin\Debug\ServerChatTest.pdb
+C:\Users\Joe\Desktop\VSTest\TimeServer\TwoConnectTest\ServerChatTest\ServerChatTest\obj\Debug\ServerChatTest.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\VSTest\TimeServer\TwoConnectTest\ServerChatTest\ServerChatTest\obj\Debug\ServerChatTest.exe
+C:\Users\Joe\Desktop\VSTest\TimeServer\TwoConnectTest\ServerChatTest\ServerChatTest\obj\Debug\ServerChatTest.pdb
